@@ -18,14 +18,19 @@ You can use any tools you like to help you complete the challenge. So if you've 
 ![image alt](https://github.com/nurullahbss/Font-End-Mentor-Challenge/blob/main/Screenshot_3.jpg?raw=true)
 
 ## Screenshot (Mobile)
-![image alt](![image alt](https://github.com/nurullahbss/Font-End-Mentor-Challenge/blob/main/Screenshot_3.jpg?raw=true))
+![image alt](https://github.com/nurullahbss/Font-End-Mentor-Challenge/blob/main/Screenshot_3.jpg?raw=true)
 
-## Solution Links
+###Built with
+  HTML5 markup
+  CSS custom properties
+  Flexbox
 
-🔗Solution URL: 
 
 We love receiving feedback! If you have anything you'd like to mention, please email: as440.nurullah@gmail.com
 
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 *Thanks for everything*
+
+##Author
+Profile: https://www.frontendmentor.io/profile/nurullahbss
