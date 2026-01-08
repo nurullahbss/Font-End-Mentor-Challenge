@@ -10,25 +10,21 @@ Thanks for checking out this front-end coding challenge.
 
 **To do this challenge, you need a basic understanding of HTML and CSS.**
 
-## Screenshot (Desktop)
-![image alt](https://github.com/nurullahbss/Font-End-Mentor-Challenge/blob/main/Screenshot_3.jpg?raw=true)
-
 Your challenge is to build out this preview card component and get it looking as close to the design as possible.
-
-## Screenshot (Mobile)
 
 You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
 
-## Deploying your project
+## Screenshot (Desktop)
+![image alt](https://github.com/nurullahbss/Font-End-Mentor-Challenge/blob/main/Screenshot_3.jpg?raw=true)
 
-## Create a custom `README.md`
+## Screenshot (Mobile)
+![image alt](![image alt](https://github.com/nurullahbss/Font-End-Mentor-Challenge/blob/main/Screenshot_3.jpg?raw=true))
 
-## Submitting your solution
+## Solution Links
 
-## Sharing your solution
+🔗Solution URL: 
 
-
-We love receiving feedback! We're always looking to improve our challenges and our platform. So if you have anything you'd like to mention, please email: as440.nurullah@gmail.com
+We love receiving feedback! If you have anything you'd like to mention, please email: as440.nurullah@gmail.com
 
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
