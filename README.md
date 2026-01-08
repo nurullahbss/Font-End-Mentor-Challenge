@@ -20,7 +20,7 @@ You can use any tools you like to help you complete the challenge. So if you've 
 ## Screenshot (Mobile)
 ![image alt](https://github.com/nurullahbss/Font-End-Mentor-Challenge/blob/main/Screenshot_3.jpg?raw=true)
 
-### Built with
+## Built with
 HTML5 markup,
 
 CSS custom properties,
@@ -28,7 +28,7 @@ CSS custom properties,
 Flexbox
 
 
-We love receiving feedback! If you have anything you'd like to mention, please email: as440.nurullah@gmail.com
+📩 We love receiving feedback! If you have anything you'd like to mention, please email: as440.nurullah@gmail.com
 
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
