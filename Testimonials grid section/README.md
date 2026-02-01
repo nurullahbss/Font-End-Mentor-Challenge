@@ -1,4 +1,4 @@
-https://github.com/nurullahbss/Font-End-Mentor-Challenge/tree/3b653961340cb0bcb126c5f855be19cacb38b48f/Testimonials%20grid%20section
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
